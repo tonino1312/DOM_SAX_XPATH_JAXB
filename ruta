@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><coches>
+        
+    <coche id="1">
+                
+        <marca>Seat</marca>
+                
+        <modelo>Ibiza</modelo>
+                
+        <color hex="FF0000">Rojo</color>
+                
+        <potencia>75</potencia>
+                
+        <precio>20000</precio>
+                
+        <puertas>5</puertas>
+                
+        <extras>
+                        
+            <extra>Radio</extra>
+                        
+            <extra>GPS</extra>
+                    
+        </extras>
+            
+    </coche>
+        
+    <coche id="2">
+                
+        <marca>Lexus</marca>
+                
+        <modelo>IS250</modelo>
+                
+        <color hex="F5F5DC">Beige</color>
+                
+        <potencia>208</potencia>
+                
+        <precio>40000</precio>
+                
+        <puertas>4</puertas>
+                
+        <extras>
+                        
+            <extra>Radio</extra>
+                        
+            <extra>GPS</extra>
+                        
+            <extra>Asientos de cuero</extra>
+                        
+            <extra>Asientos eléctricos</extra>
+                    
+        </extras>
+            
+    </coche>
+        
+    <coche id="3">
+                
+        <marca>BMW</marca>
+                
+        <modelo>320i</modelo>
+                
+        <color hex="0000FF">Azul</color>
+                
+        <potencia>150</potencia>
+                
+        <precio>30000</precio>
+                
+        <puertas>4</puertas>
+                
+        <extras>
+                        
+            <extra>Radio</extra>
+                        
+            <extra>GPS</extra>
+                        
+            <extra>Asientos de cuero</extra>
+                    
+        </extras>
+            
+    </coche>
+        
+    <coche id="4">
+                
+        <marca>Mitsubishi</marca>
+                
+        <modelo>Lancer</modelo>
+                
+        <color>Rojo</color>
+                
+        <potencia>150</potencia>
+                
+        <precio>25000</precio>
+                
+        <puertas>5</puertas>
+                
+        <extras>
+                        
+            <extra>Radio</extra>
+                        
+            <extra>GPS</extra>
+                    
+        </extras>
+            
+    </coche>
+        
+    <coche id="5">
+                
+        <marca>Mitsubishi</marca>
+                
+        <modelo>Eclipse</modelo>
+                
+        <color>Rojo</color>
+                
+        <potencia>200</potencia>
+                
+        <precio>0</precio>
+                
+        <puertas>2</puertas>
+                
+        <extras>
+                        
+            <extra>Radio</extra>
+                        
+            <extra>GPS</extra>
+                        
+            <extra>Asientos de cuero</extra>
+                        
+            <extra>Asientos eléctricos</extra>
+                    
+        </extras>
+            
+    </coche>
+    
+    <coche id="13">
+        <marca>12321321</marca>
+        <modelo>321321</modelo>
+        <color hex="321321">321321</color>
+        <potencia>231321</potencia>
+        <precio>321321</precio>
+        <puertas>321312</puertas>
+    </coche>
+</coches>
